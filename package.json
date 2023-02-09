@@ -1,8 +1,9 @@
 {
 	"name": "eslint-config-jmchor",
 	"version": "1.0.0",
-	"description": "Shareable eslint config for my projects",
+	"description": "Shareable ESLint config from Johannes Chorzempa",
 	"main": "eslint.js",
+	"repository": "git@github.com:jmchor/eslint-config-jmchor.git",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
