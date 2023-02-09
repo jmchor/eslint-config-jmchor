@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-jmchor",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Shareable ESLint config from Johannes Chorzempa",
 	"main": "eslint.js",
 	"repository": "git@github.com:jmchor/eslint-config-jmchor.git",
