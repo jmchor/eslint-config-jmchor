@@ -1,4 +1,5 @@
-# eslint-config-jmchor 
+# eslint-config-jmchor  ![npm_small](https://user-images.githubusercontent.com/110151013/217754901-6463b722-4559-4e57-90bd-66304e4889a3.png)
+
 
 
 ## my personal ESLint config file to share between projects
