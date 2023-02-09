@@ -1,4 +1,4 @@
-# eslint-config-jmchor ![npm-logo-red](https://user-images.githubusercontent.com/110151013/217754434-d64aa47d-f49e-4f9c-a2d8-39374fb53f4d.png)
+# eslint-config-jmchor 
 
 
 ## my personal ESLint config file to share between projects
