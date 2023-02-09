@@ -1,4 +1,5 @@
 # eslint-config-jmchor 
+[![npm version](https://badge.fury.io/js/eslint-config-jmchor.svg)](https://badge.fury.io/js/eslint-config-jmchor)
 
 
 ## my personal ESLint config file to share between projects
