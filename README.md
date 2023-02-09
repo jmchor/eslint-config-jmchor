@@ -1,8 +1,8 @@
-_eslint-config-jmchor - my personal ESLint config file to share between projects_
+# eslint-config-jmchor - my personal ESLint config file to share between projects
 
 This is the first npm package I ever published, so it's a bit rough around the edges - bear with me!
 
-**Installation**
+## Installation
 
 Just run:
 
@@ -11,7 +11,7 @@ npm i -D eslint-config-jmchor
 npx install-peerdeps --dev eslint-config-jmchor
 ```
 
-**Setup**
+## Setup
 
 The only thing to do is to either create or edit your .eslintrc file with
 
